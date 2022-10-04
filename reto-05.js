@@ -1,4 +1,4 @@
-function daysToXmas(date) {
+export default function daysToXmas(date) {
   // ¡Y no olvides compartir tu solución en redes!
 
   // PASO 1: CONSTANTES
